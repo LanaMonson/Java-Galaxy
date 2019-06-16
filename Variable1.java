@@ -4,3 +4,6 @@ public class Solution {
 		System.out.println(name);
     }
 }
+
+//OUTPUT:
+//Vasya
