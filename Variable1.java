@@ -25,3 +25,6 @@ public class Solution {
         System.out.println(number * number);
     }
 }
+//OUTPUT:
+//625
+
