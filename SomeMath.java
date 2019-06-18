@@ -6,7 +6,6 @@ public class Solution {
         System.out.print(a + b + c);
     }
 }
-
 //OUTPUT:
 //100
 
@@ -44,6 +43,18 @@ public class Solution {
         System.out.println(a + b + c);
     }
 }
-
 //OUTPUT:
 //5 is better than 23
+
+
+public class Solution {
+    public static void main(String[] args) {
+        System.out.println(sqr(5));
+    }
+
+    public static int sqr(int a) {
+        return a * a;
+    }
+}
+//OUTPUT:
+//25
