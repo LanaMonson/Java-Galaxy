@@ -10,6 +10,8 @@ public class Solution {
 //OUTPUT:
 //100
 
+
+
 public class Solution {
     public static void main(String[] args) {
         int a = 10;
@@ -28,3 +30,20 @@ public class Solution {
 //OUTPUT:
 //53.010babs10
 
+
+
+public class Solution {
+    public static void main(String[] args) {
+        //String s = "15";
+        int a = 5;
+        //int z = 18;
+        int d = 18;
+        int c = a + d;
+        String b = " is better than ";
+
+        System.out.println(a + b + c);
+    }
+}
+
+//OUTPUT:
+//5 is better than 23
